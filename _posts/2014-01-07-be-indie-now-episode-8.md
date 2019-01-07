@@ -39,7 +39,7 @@ I felt I learned stuff from this episode, and I hope you will too. If you did le
 
 Special thanks as always to Kenny Spade for teaching, and to Microsoft for the equipment and space.
 
-<img alt="Be Indie Now Episode 8" src="/assets/2013/10/BeIndyNowLogo-512h-300x172.png?resize=300%2C172" width="300" height="172" data-recalc-dims="1" />
+<img alt="Be Indie Now Episode 8" src="/assets/2013/10/BeIndyNowLogo-512h-300x173.png?resize=300%2C172" width="300" height="172" data-recalc-dims="1" />
 
 ## Show Notes:
 

@@ -29,7 +29,7 @@ tags:
 format: audio
 ---
 <p style="text-align: center;">
-  <img class="aligncenter" alt="Be Indie Now 20" src="/assets/2013/10/BeIndyNowLogo-512h-300x172.png?resize=300%2C172" width="300" height="172" data-recalc-dims="1" />
+  <img class="aligncenter" alt="Be Indie Now 20" src="/assets/2013/10/BeIndyNowLogo-512h-300x173.png?resize=300%2C172" width="300" height="172" data-recalc-dims="1" />
 </p>
 
 ## Be Indie Now 20:

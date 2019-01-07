@@ -37,7 +37,7 @@ On the show he talks about his goals for the game, and how all this came about.
 
 Special thanks to Microsoft for making the show possible.
 
-<img alt="Be Indie Now Episode 11" src="/assets/2013/10/BeIndyNowLogo-512h-300x172.png?resize=300%2C172" width="300" height="172" data-recalc-dims="1" />
+<img alt="Be Indie Now Episode 11" src="/assets/2013/10/BeIndyNowLogo-512h-300x173.png?resize=300%2C172" width="300" height="172" data-recalc-dims="1" />
 
 ## Show Notes:
 

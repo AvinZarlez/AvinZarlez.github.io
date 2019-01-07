@@ -41,7 +41,7 @@ You can also read his blog post on Gamasutra about his company <a href="http://w
 
 Special thanks to Microsoft for making the show possible.
 
-<img alt="Be Indie Now Episode 12" src="/assets/2013/10/BeIndyNowLogo-512h-300x172.png?resize=300%2C172" width="300" height="172" data-recalc-dims="1" />
+<img alt="Be Indie Now Episode 12" src="/assets/2013/10/BeIndyNowLogo-512h-300x173.png?resize=300%2C172" width="300" height="172" data-recalc-dims="1" />
 
 ## Show Notes:
 
