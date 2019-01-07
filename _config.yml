@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tobiah Zarlez
+title: Tobiah Zarlez Blog
 email: Contact@TobiahZ.com
 description: >- # this means to ignore newlines until "baseurl:"
   Senior Software Engineer at Microsoft and Independent Game Developer
@@ -22,12 +22,35 @@ name: Tobiah Zarlez
 url: "http://tobiahz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tobiahzarlez
 github_username:  tobiahz
+linkedin_username: tobiah 
+youtube_username: tobiahzarlez 
+
+rss: rss
+
+show_excerpts: true
+
+author: Tobiah Zarlez
+twitter:
+  username: tobiahzarlez
+social:
+  name: Tobiah Zarlez
+  links:
+    - https://twitter.com/tobiahzarlez
+    - https://www.linkedin.com/in/tobiah
+    - https://github.com/tobiahz
+    - https://keybase.io/tobiah
+
+paginate: 5
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+disqus:
+    shortname: tobiahz
 
 #pygments: true
 
