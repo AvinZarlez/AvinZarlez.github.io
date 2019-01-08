@@ -1,10 +1,7 @@
 ---
-id: 601
 title: Resources for Game and App Developers
-date: 2013-10-04T08:05:24+00:00
-author: Tobiah
+author: Tobiah Zarlez
 layout: page
-guid: http://tobiahmarks.com/?page_id=601
 ---
 Here is a list of tools, asset libraries and other resources for game and app developers that I recommend.
 

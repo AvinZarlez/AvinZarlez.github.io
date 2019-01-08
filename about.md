@@ -1,10 +1,7 @@
 ---
-id: 61
 title: About
-date: 2013-09-25T18:34:17+00:00
-author: Tobiah
+author: Tobiah Zarlez
 layout: page
-guid: http://tobiah.azurewebsites.net/?page_id=61
 ---
 ## Who am I?
 
