@@ -52,6 +52,8 @@ plugins:
 disqus:
     shortname: tobiahz
 
+google_analytics: UA-131897110-1
+
 #pygments: true
 
 # Exclude from processing.
