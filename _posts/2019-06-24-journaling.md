@@ -23,6 +23,6 @@ Now I had a choice: Digital vs. Analog/Physical Book
 
 I decided to start doing both. I figured after a month or two eventually I'll favor one over the other. Well, that didn't happen. So for every day in 2019, I've been doing both. I don't know if I'll settle for sure the question of which is better. I have a strong bias toward digital in general. Analog hasn't captured me enough to want to give on up on the digital medium, but there is enough there that I haven't given up on analog yet. We'll see how I feel once we hit the year mark.
 
-However, on a related note, I am not longer an Evangelist at Microsoft. I'm doing even more cool engineering than ever before, but I'm talking about it publically a lot less. I enjoyed writing a blog, so I figure I ought to take another stab at it.
+However, on a related note, I am no longer an Evangelist at Microsoft. I'm doing even more cool engineering than ever before, but I'm talking about it publically a lot less. I enjoyed writing a blog, so I figure I ought to take another stab at it.
 
 I could make a commitment to one post a month or something like that, but I'm not sure I'll even hold myself to that. For now, if you enjoy hearing me rant, let me know any suggestions on topics you want me to write about!
