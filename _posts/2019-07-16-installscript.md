@@ -40,6 +40,8 @@ So, I decided to make myself a script!
 
 ## Tobiah's Automatic Install Script
 
+Check it out on [my GitHub Gists](https://gist.github.com/TobiahZ/b3c6a4acdb8f8a694ee3299439c492f3).
+
 <script src="https://gist.github.com/TobiahZ/b3c6a4acdb8f8a694ee3299439c492f3.js"></script>
 
 Feel free to try it out for yourself next time you need to install a bunch of apps!
