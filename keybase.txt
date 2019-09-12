@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tobiah
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.tobiahz.com
+  * I am tobiah (https://keybase.io/tobiah) on keybase.
+  * I have a public key ASATZqVsUO0XAsc9r9yu_26dSRIdttojFBvMwG_sZWsltgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010114db548cb0555b27e0412e6c2e867dd1d39c4820ff4784349baaa252f98cd9390a",
+      "host": "keybase.io",
+      "kid": "01201366a56c50ed1702c73dafdcaeff6e9d49121db6da23141bccc06fec656b25b60a",
+      "uid": "6dc38ad7c547c0b7511773b67bc0da19",
+      "username": "tobiah"
+    },
+    "merkle_root": {
+      "ctime": 1568249679,
+      "hash": "e7c6bde1a73007d026c03c7bbf045d12e9f98721dba5cdac6f4409d2a76aec5ab457ca7c72fd2790147bd3a17343f06e5e1cff9664fc92d3292814c1a4ca5df2",
+      "hash_meta": "8b011b6bbbd9bdd126bd94ec832ee6811c515306bd993349778dff5992ca6d52",
+      "seqno": 6850930
+    },
+    "service": {
+      "entropy": "w002y7fsZeo2RnIobd73fcfh",
+      "hostname": "www.tobiahz.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568249706,
+  "expire_in": 504576000,
+  "prev": "61336b3be1c57475e7a57d7a9551f7026ba2ecff8bfb98385760a9d77570de6c",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgE2albFDtFwLHPa/crv9unUkSHbbaIxQbzMBv7GVrJbYKp3BheWxvYWTESpcCFMQgYTNrO+HFdHXnpX16lVH3Amui7P+L+5g4V2Cp13Vw3mzEII49I/UH20yCLKhNL1fh+6qRlNg3goV57VSLgh6/806kAgHCo3NpZ8RAqw3oa/iEopc6Jwe0K637bwiJHa4Da1+H9dAH4gcWdK/FHjcfSzzd+vqruC8tYA0DQX3vCOWdpL1cGDObMPGgBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGhtRPlmA7/RncmrQecyhecq8cLIf/4JUMW32P2j/5jho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tobiah
+
+==================================================================
