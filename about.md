@@ -18,15 +18,15 @@ They currently reside in San Jose, California with their partner and two childre
 
 ### Indie Game Credits
 
-Yobonja – 2009-2013+ – Notable titles: Blast Monkeys, Blast Monkeys Forever, Tap Party, Tap Party 2, Snack Time for Caterpillar, The Nightclub
-PlayPerro – 2012+ – Notable titles: #DanceTogether. 
+* Yobonja – 2009-2013+ – Notable titles: Blast Monkeys, Blast Monkeys Forever, Tap Party, Tap Party 2, Snack Time for Caterpillar, The Nightclub
+* PlayPerro – 2012+ – Notable titles: #DanceTogether. 
 
 
 ### Related Links
 
-https://twitter.com/tobiahzarlez
-https://github.com/tobiahz
-https://www.linkedin.com/in/tobiah/
-https://www.yobonja.com/
-https://www.playperro.com/
-https://www.dancetogether.today/
+* <https://twitter.com/tobiahzarlez>
+* <https://github.com/tobiahz>
+* <https://www.linkedin.com/in/tobiah/>
+* <https://www.yobonja.com/>
+* <https://www.playperro.com/>
+* <https://www.dancetogether.today/>
