@@ -3,7 +3,7 @@ title: About
 author: Tobiah Zarlez
 layout: page
 ---
-## Who is Tobiah Zarlez?
+## Who is Tobiah Zarlez? <img align="right" width="400" src="assets/tobiah.jpg">
 
 Tobiah Zarlez is a Senior Software Engineer at Microsoft and an independent game developer from the San Francisco Bay Area. They are transgender, non-binary, and use They/Them/Theirs pronouns.
 
