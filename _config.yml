@@ -14,33 +14,36 @@ repository: "AvinZarlez/AvinZarlez.github.io"
 twitter:
   username: AvinZarlez
 
+og_image: /assets/images/avin.jpg
 
 # Site Author
 author:
   name             : "Avin Zarlez"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avin.jpg"
   bio              : "Senior Software Engineer at Microsoft and Independent Game Developer"
   location         : "San Jose, California"
   email            : "Contact&#64;AvinZarlez.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:Contact&#64;AvinZarlez.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.avinzarlez.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AvinZarlez"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/avinzarlez"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AvinZarlez"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/AvinZarlez"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/AvinZarlez"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/AvinZarlez"
+
+      <i class="fab fa-linkedin"></i>
 
 
 encoding: "utf-8"
