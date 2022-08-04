@@ -6,7 +6,7 @@ layout: home
 author_profile: true
 ---
 
-# Hello! I'm Avin.
+Hello! I'm Avin.
 
 I am a passionate geek. I am a parent of two amazing kids. I was born and raised in the San Francisco Bay Area. I am the owner of two cats. I describe myself as non-binary, transfeminine, and use They/Them or She/Her pronouns.
 
