@@ -43,8 +43,6 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/AvinZarlez"
 
-      <i class="fab fa-linkedin"></i>
-
 
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
