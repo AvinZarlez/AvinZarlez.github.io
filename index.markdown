@@ -13,7 +13,7 @@ Hello! I'm Avin.
 
 I am a passionate geek. I am a parent of two amazing kids. I was born and raised in the San Francisco Bay Area. I am the owner of two cats. I describe myself as non-binary, transfeminine, and use They/Them or She/Her pronouns.
 
-I used to define who I was by the work I produced. I'm working on that. I love board games, I have quite a large collection. Really gaming of all kinds. I adore storytelling in all forms, and I am an avid reader. Cooking calms me down. I appreciate punctuality, I always try to be on time or early, and I get very nervous if late.
+I used to define who I was by the work I produced. I'm working on that. I love board games, I have quite a large collection. Really gaming of all kinds. I adore storytelling in all forms, and I am an avid reader. I seek out meditative activities, such as cooking. I enjoy listening to my favorite music as well as creating my own.
 
 ## What do I do?
 
@@ -22,7 +22,7 @@ I work at Microsoft as a Senior Software Engineer, and I love my work. I get to 
 I am also accomplished public speaker and have spoken in front of thousands of audiences. I have presented at major game industry conferences such as the Game Developers Conference (GDC), PAX Dev, PAX East, IndieCade East, and many dozens of different Tech Conferences, Meetups and Code Camps all over the US.
 
 
-### Some of my independent game credits
+### Independent Game Credit Highlight
 
 * **Yobonja** – 2009-2013+
   * Notable titles: Blast Monkeys, Blast Monkeys Forever, Tap Party, Tap Party 2, Snack Time for Caterpillar, The Nightclub
