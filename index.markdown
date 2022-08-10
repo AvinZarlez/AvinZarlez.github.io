@@ -7,7 +7,7 @@ header:
   image_description: "Avin Zarlez"
 ---
 
-Hello! I'm Avin.
+Hello!
 
 ## Who am I?
 
