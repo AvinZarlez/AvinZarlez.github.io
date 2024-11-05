@@ -12,9 +12,6 @@ url: "https://www.avinzarlez.com" # the base hostname & protocol for your site, 
 baseurl: "" # the subpath of your site, e.g. /blog
 repository: "AvinZarlez/AvinZarlez.github.io"
 
-twitter:
-  username: AvinZarlez
-
 og_image: /assets/images/avin.jpg
 
 # Site Author
