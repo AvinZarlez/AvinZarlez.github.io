@@ -4,6 +4,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "dark"
 
 locale: "en-US"
+title: "Avin Zarlez | Mother, Advocate, Staff Developer Evangelist at Arm"
 name: "Avin Zarlez"
 description: "Mother, Advocate, Staff Developer Evangelist at Arm"
 url: "https://www.avinzarlez.com/" # the base hostname & protocol for your site, e.g. http://example.com
