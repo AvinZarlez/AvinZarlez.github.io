@@ -24,9 +24,10 @@ author:
   location         : "San Jose, California"
   email            : "Contact&#64;AvinZarlez.com"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.avinzarlez.com"
+
+    - label: "Contact Card"
+      icon: "fas fa-fw fa-address-card"
+      url: "https://www.avinzarlez.com/AvinZarlez.vcf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AvinZarlez"
