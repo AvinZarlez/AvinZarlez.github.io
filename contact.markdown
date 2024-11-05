@@ -3,4 +3,4 @@ layout: single
 author_profile: true
 ---
 
-<img src="/assets/images/contact_qrcode.png" alt="Avin Zarlez Work Contact vCard" style='height: auto; width: 100%;'/>
+<img src="/assets/images/contact_qrcode.png" alt="Avin Zarlez Work Contact vCard"/>
