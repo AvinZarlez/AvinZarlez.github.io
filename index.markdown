@@ -1,7 +1,5 @@
 ---
-layout: single
 author_profile: true
-title: ""
 
 header:
   image: /assets/images/banner.jpg
