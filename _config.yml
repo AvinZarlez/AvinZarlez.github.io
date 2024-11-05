@@ -24,9 +24,6 @@ author:
   location         : "San Jose, California"
   email            : "Contact&#64;AvinZarlez.com"
   links:
-    - label: "Contact Card"
-      icon: "fas fa-fw fa-address-card"
-      url: "https://www.avinzarlez.com/AvinZarlez.vcf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AvinZarlez"
@@ -42,6 +39,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/AvinZarlez"
+    - label: "Work Contact vCard"
+      icon: "fas fa-fw fa-address-card"
+      url: "https://www.avinzarlez.com/AvinZarlez.vcf"
 
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
