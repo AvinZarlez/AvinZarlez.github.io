@@ -1,5 +1,5 @@
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 minimal_mistakes_skin: "dark"
 
@@ -23,13 +23,7 @@ author:
   bio              : "Mother, Advocate, Staff Developer Evangelist at Arm"
   location         : "San Jose, California"
   email            : "Contact&#64;AvinZarlez.com"
-  sidebar:
-    - title: "Title"
-      image: http://placehold.it/350x250
-      image_alt: "image"
-      text: "Some text here."
   links:
-
     - label: "Contact Card"
       icon: "fas fa-fw fa-address-card"
       url: "https://www.avinzarlez.com/AvinZarlez.vcf"
@@ -49,6 +43,11 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/AvinZarlez"
 
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
 
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -91,6 +90,9 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+
+atom_feed:
+  hide: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
