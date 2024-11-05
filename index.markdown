@@ -1,4 +1,5 @@
 ---
+title: "Avin Zarlez | Mother, Advocate, Staff Developer Evangelist at Arm"
 layout: single
 author_profile: true
 
