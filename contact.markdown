@@ -1,7 +1,7 @@
 ---
+title: "Work Contact vCard QR Code"
 layout: single
 author_profile: true
-title: "Work Contact vCard QR Code"
 ---
 
 [![Avin Zarlez Work Contact vCard QR Code](/assets/images/contact_qrcode.png)](/assets/images/contact_qrcode.png)
