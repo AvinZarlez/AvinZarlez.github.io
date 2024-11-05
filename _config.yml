@@ -1,11 +1,12 @@
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 minimal_mistakes_skin: "dark"
 
 locale: "en-US"
-title: Avin Zarlez
-name: Avin Zarlez
+title: "Avin Zarlez"
+name: "Avin Zarlez"
+masthead_title: ""
 description: "Mother, Advocate, Staff Developer Evangelist at Arm"
 url: "https://www.avinzarlez.com/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -93,6 +94,14 @@ plugins:
 
 atom_feed:
   hide: true
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
