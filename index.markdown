@@ -7,10 +7,9 @@ header:
   image_description: "Avin Zarlez"
 
 sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
+  - image: contact_qrcode.svg
+    image_alt: "Avin Zarlez vCard QR Code"
+    text: "vCard QR Code"
 ---
 
 Hello! My name is Avin Zarlez. My pronouns are She/Her or They/Them. I’m a proud parent of two, a board game enthusiast, and an advocate for diversity and inclusion. I was born and raised in the San Francisco Bay Area. In my free time, I enjoy storytelling, cooking, music, and other activities that inspire.
