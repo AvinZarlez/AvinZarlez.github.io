@@ -6,7 +6,7 @@ minimal_mistakes_skin: "dark"
 locale: "en-US"
 title: "Avin Zarlez"
 name: "Avin Zarlez"
-masthead_title: "AZ"
+masthead_title: " "
 description: "Mother, Advocate, Staff Developer Evangelist at Arm"
 url: "https://www.avinzarlez.com/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -43,12 +43,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/AvinZarlez"
-
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
 
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
