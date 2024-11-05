@@ -7,31 +7,18 @@ header:
   image_description: "Avin Zarlez"
 ---
 
-Hello!
+Hello! My name is Avin Zarlez. My pronouns are She/Her or They/Them. I’m a proud parent of two, a board game enthusiast, and an advocate for diversity and inclusion. I was born and raised in the San Francisco Bay Area. In my free time, I enjoy storytelling, cooking, music, and other activities that inspire.
 
-## Who am I?
+## Professional Background
 
-I am a passionate geek. I am a parent of two amazing kids. I was born and raised in the San Francisco Bay Area. I am the owner of two cats. I describe myself as non-binary, transfeminine, and use They/Them or She/Her pronouns.
+I have the privilege of working at Arm as Staff Developer Evangelist. I work at the intersection of technology, community, and innovation. I thrive on empowering developers to create and innovate. I believe that interactive software is a powerful art form. I’m also an accomplished public speaker. I have presented at many major industry events and countless tech meetups across the U.S.
 
-I used to define who I was by the work I produced. I'm working on that. I love board games, I have quite a large collection. Really gaming of all kinds. I adore storytelling in all forms, and I am an avid reader. I seek out meditative activities, such as cooking. I enjoy listening to my favorite music as well as creating my own.
+### Career History
 
-## What do I do?
+Throughout my career, I’ve had the opportunity to work on exciting projects. After graduating from college, I co-founded Yobonja. An indie game studio best known for the game _Blast Monkeys_, which was the #1 Android app for over six months in 2011.
 
-I work at Microsoft as a Senior Software Engineer, and I love my work. I get to play with cutting-edge technology and solve problems no one has ever solved before. I co-founded Yobonja, an independent game studio, right after graduating college. We created the hit game Blast Monkeys, which was the number one app on Android for 6+ months during 2011. Now I do game development in my spare time with my solo company PlayPerro, focusing on experimental gameplay. I strongly believe games, and more broadly interactive software, are an art form.
+In 2013, I joined Microsoft as a Technical Evangelist. There I helped developers leverage Microsoft platforms and technology. I solved developer's technical challenges, build prototypes and write production code. I gained deep insights into Microsoft tools, services, and platforms. I had the privilege of speaking to thousands of students and developers.
 
-I am also accomplished public speaker and have spoken in front of thousands of audiences. I have presented at major game industry conferences such as the Game Developers Conference (GDC), PAX Dev, PAX East, IndieCade East, and many dozens of different Tech Conferences, Meetups and Code Camps all over the US.
+Eventually, I became a Senior Software Engineer within the Industrial Solutions Engineering team. I helped Microsoft invest in top customers and partners in a variety of industries. Solving their critical business needs and training developers in industry-leading engineering best practices.
 
-
-### Independent Game Credit Highlight
-
-* **Yobonja** – 2009-2013+
-  * Notable titles: Blast Monkeys, Blast Monkeys Forever, Tap Party, Tap Party 2, Snack Time for Caterpillar, The Nightclub
-* **PlayPerro** – 2012+
-  * Notable titles: #DanceTogether, Space Repair Inc.
-
-
-### Related Links
-
-* <https://www.yobonja.com/>
-* <https://www.playperro.com/>
-* <https://www.dancetogether.today/>
+I also ran a solo venture, PlayPerro, from 2012 to 2024. There I experimented with interactive experiences. My game _#DanceTogether_ was featured at IndieCade and the Experimental Gameplay Workshop.
