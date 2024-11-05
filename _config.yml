@@ -1,12 +1,12 @@
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 minimal_mistakes_skin: "dark"
 
 locale: "en-US"
 title: Avin Zarlez
 name: Avin Zarlez
-description: "Senior Software Engineer at Microsoft and Independent Game Developer"
+description: "Mother, Advocate, Staff Developer Evangelist at Arm"
 url: "https://www.avinzarlez.com/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 repository: "AvinZarlez/AvinZarlez.github.io"
@@ -20,13 +20,19 @@ og_image: /assets/images/avin.jpg
 author:
   name             : "Avin Zarlez"
   avatar           : "/assets/images/avin.jpg"
-  bio              : "Senior Software Engineer at Microsoft and Independent Game Developer"
+  bio              : "Mother, Advocate, Staff Developer Evangelist at Arm"
   location         : "San Jose, California"
   email            : "Contact&#64;AvinZarlez.com"
+  sidebar:
+    - title: "Title"
+      image: http://placehold.it/350x250
+      image_alt: "image"
+      text: "Some text here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.avinzarlez.com"
+
+    - label: "Contact Card"
+      icon: "fas fa-fw fa-address-card"
+      url: "https://www.avinzarlez.com/AvinZarlez.vcf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AvinZarlez"
