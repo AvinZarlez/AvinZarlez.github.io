@@ -14,6 +14,6 @@ Hello! My name is Avin Zarlez. My pronouns are She/Her or They/Them. I’m a pro
 
 For more information about my career, go to my [careers page](/career/).
 
-### Articles
+### Content
 
-Please visit my [articles page](/articles/) for some insights and perspectives on topics I find noteworthy.
+Please visit my [content page](/content/) for some articles, videos, code repos, and other types of content I think you might find interesting or noteworthy.

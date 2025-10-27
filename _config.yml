@@ -22,6 +22,9 @@ author:
   location         : "San Jose, California"
   email            : "Contact&#64;AvinZarlez.com"
   links:
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@AvinZarlez"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AvinZarlez"
