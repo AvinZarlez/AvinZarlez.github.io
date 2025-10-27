@@ -22,6 +22,9 @@ author:
   location         : "San Jose, California"
   email            : "Contact&#64;AvinZarlez.com"
   links:
+    - label: "BlueSky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/zarlez.com"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@AvinZarlez"
