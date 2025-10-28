@@ -3,6 +3,8 @@ permalink: /career/
 title: "Professional Background"
 ---
 
+For a role by role breakdown of my career, check out my [LinkedIn profile](https://www.linkedin.com/in/avinzarlez/).
+
 ## Current Role
 
 I have the privilege of working at Arm as Staff Developer Evangelist since 2024. I work at the intersection of technology, community, and innovation. I thrive on empowering developers to create and innovate. I believe that interactive software is a powerful art form. I’m also an accomplished public speaker. I have presented at many major industry events and countless tech meetups across the U.S.
