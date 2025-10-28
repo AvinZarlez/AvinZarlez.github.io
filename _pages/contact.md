@@ -1,6 +1,7 @@
 ---
 title: "Work Contact vCard QR Code"
 layout: single
+permalink: /contact/
 author_profile: true
 ---
 

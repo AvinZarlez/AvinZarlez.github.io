@@ -1,20 +1,15 @@
 ---
-title: "About Me"
-layout: single
-author_profile: true
-
-header:
-  image: /assets/images/banner.jpg
-  image_description: "Avin Zarlez"
+permalink: /career/
+title: "Professional Background"
 ---
 
-Hello! My name is Avin Zarlez. My pronouns are She/Her or They/Them. I’m a proud parent of two, a board game enthusiast, and an advocate for diversity and inclusion. I was born and raised in the San Francisco Bay Area. In my free time, I enjoy storytelling, cooking, music, and other activities that inspire.
+For a role by role breakdown of my career, check out my [LinkedIn profile](https://www.linkedin.com/in/avinzarlez/).
 
-## Professional Background
+## Current Role
 
 I have the privilege of working at Arm as Staff Developer Evangelist since 2024. I work at the intersection of technology, community, and innovation. I thrive on empowering developers to create and innovate. I believe that interactive software is a powerful art form. I’m also an accomplished public speaker. I have presented at many major industry events and countless tech meetups across the U.S.
 
-### Career History
+## Career History
 
 Throughout my career, I’ve had the opportunity to work on exciting projects. After graduating from college, I co-founded Yobonja. An indie game studio best known for the game _Blast Monkeys_, which was the #1 Android app for over six months in 2011.
 
