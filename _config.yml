@@ -47,6 +47,13 @@ author:
       icon: "fas fa-fw fa-address-card"
       url: "https://www.avinzarlez.com/AvinZarlez.vcf"
 
+# Analytics
+analytics:
+  provider: "google"
+  google:
+    tracking_id: G-6NQGJFL1CC
+
+
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
