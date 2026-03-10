@@ -49,9 +49,9 @@ author:
 
 # Analytics
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
-    tracking_id: G-6NQGJFL1CC
+    tracking_id: "G-6NQGJFL1CC"
 
 
 encoding: "utf-8"
