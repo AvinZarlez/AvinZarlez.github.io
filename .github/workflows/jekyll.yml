@@ -42,7 +42,7 @@ jobs:
 
       # Node.js LTS 24 — active LTS through 2027-04-30
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: "24"
 
