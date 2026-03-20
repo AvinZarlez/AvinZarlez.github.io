@@ -130,7 +130,7 @@ If we’re clear about the boundary between code and software, we can make bette
 
 ---
 
-## References
+## References Used
     
 - ISO/IEC/IEEE 24765:2010, _Systems and software engineering — Vocabulary_ ("code" and “software”) — [PDF](https://cse.msu.edu/~cse435/Handouts/Standards/IEEE24765.pdf)
 - Frederick P. Brooks, _The Mythical Man‑Month_ excerpt (“The Tar Pit”) — [PDF](https://www.tup.tsinghua.edu.cn/upload/books/yz/102352-01.pdf)
