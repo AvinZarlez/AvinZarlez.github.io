@@ -17,7 +17,6 @@ I’ve written both code and software professionally for dozens of different ind
 
 The AI era has made this distinction even more important. AI can generate a lot of code quickly. But the real engineering question is often: **did we generate code, or did we build software?** The difference determines how we test, ship, secure, operate, and maintain what we create.
 
----
 
 ## **Code is an artifact. Software is a capability.**
 
@@ -45,7 +44,6 @@ This is the key conceptual split I use in practice:
 - **Code** is the artifact I can point to.
 - **Software** is the capability I can deliver and sustain.
 
----
 
 ## **The moment code becomes “software”: the product test**
 
@@ -60,7 +58,6 @@ If “anybody” needs to be able to run it, the code must be packaged, dependen
 
 This is not to say "code" can't be useful but carries different expectations.
 
----
 
 ## **Time is the real interface**
 
@@ -77,8 +74,7 @@ And in the same chapter:
 > — _Software Engineering at Google_ ([Chapter 1](https://abseil.io/resources/swe-book/html/ch01.html))
 
 If you’ve ever returned to code you wrote six months ago and felt like it was written by a stranger, you already understand why time changes everything. Now scale that effect across a team, across multiple releases, across customers, and across platforms—and you have a very practical reason why not all "code" is “software."
-  
----
+
 
 ## **The hardest part is not the syntax**
 
@@ -90,7 +86,6 @@ Whether that code was handwritten by a human or an AI. If it is going to be part
 
 There is a reason "Works on my machine" is a saying. I have seen so many times someone in a project meeting or standup claim something is "Done", only for it to come out that it wasn't. Not by the professional standards of software I have explained here. It is easy for someone without experience to think that because the code exists, runs, and maybe even accomplishes the required task, that the task is "done." Teams need to be clear and up front with what their shared definition of done entails, and what is required to make code robust and stable enough to become part of **software**.
 
----
 
 ## **What AI changes: the bottleneck shifts from writing to verifying**
 
@@ -106,7 +101,6 @@ Where AI code generation can greatly enhance a pipeline is helping developers en
 
 These are processes that should always be practiced, but the reality of the real world is that often we don't have the time to check all these boxes while trying to remain agile and move at a fast pace. Agents can flesh out and run tests while a developer's attention can shift towards breaking down the next few tasks. The inflexibility of AI can be leveraged as a strength when given the right kinds of narrow well-defined tasks.
 
----
 
 ## **A clearer way to describe what AI is actually doing**
 
@@ -128,7 +122,6 @@ Those statements are not just more honest, they are more actionable. They tell y
 
 If we’re clear about the boundary between code and software, we can make better decisions on where and what AI can safely be incorporated into our work, what must be validated by human, and what “done” truly means in terms of production ready deliverables.
 
----
 
 ## References Used
     
