@@ -7,9 +7,9 @@ tags:
   - Software
 ---
 
-I spend a lot of my time explaining technology to people who have fundamentally different ideas of software and code; from engineers deep in the implementation details, to leaders trying to understand the development workflow, and everyone in-between.
+I spend a lot of my time explaining technology to people who have fundamentally different ideas of software and code. From engineers deep in the implementation details, to leaders trying to understand the development workflow, and everyone in-between.
 
-We often use the words **“code”** and **“software”** as if they are interchangeable. In casual conversation, that usually works. In technical planning and when talking about AI-assisted development, it creates subtle misunderstandings that turn into very practical problems. Mismatched expectations, unclear “done” definitions, and teams talking past each other about what to deliver, or worse; what has or has not already been delivered.
+We often use the words **“code”** and **“software”** as if they are interchangeable. In casual conversation, that usually works. In technical planning and when talking about AI-assisted development, it creates subtle misunderstandings that turn into very practical problems. Mismatched expectations, unclear “done” definitions, and teams talking past each other about what to deliver, or worse, what has or has not already been delivered.
 
 A single Python file is unambiguously **code**. When code becomes **software** depends on something much larger than the file itself. When it expected to be used, how does it behave when pushed to its boundaries, how it’s packaged and run, how it’s tested, how it’s documented, and—most importantly—how it will be maintained when requirements and environments inevitably change.
 
@@ -82,7 +82,7 @@ If you’ve ever returned to code you wrote six months ago and felt like it was 
 
 ## **The hardest part is not the syntax**
 
-At this point, I am on repeat saying software is “code plus documentation and operations.” That is true but also understates the more fundamental point: If you use code when what you need is software, you may not realize what is missing until after negative consequences.
+At this point, I may sound repetitive saying software is “code plus documentation and operations.” That is true but also understates the more fundamental point: If you use code when what you need is software, you may not realize what is missing until after negative consequences.
 
 This is why this distinction is important in AI discussions. Code generation is accelerating the act of typing. We can celebrate that, but we should not pretend the conceptual work disappears. If I am trying to construct a process, a repeatable system used in business, that can't just be built upon a piece of *code*.
 
@@ -104,7 +104,7 @@ AI doesn't change the need for junior engineers. It makes it more important than
 
 Where AI code generation can greatly enhance a pipeline is helping developers ensure they are following **software** engineering best practices in their work. Not just automated checks to ensure unit tests exist, but tasking agents to implement robust unit tests for all the edge cases the developer can think of. A developer can use AI to thoroughly ensure all functions have in-code documentation comments, helping future developers understand what was implemented and why.
 
-These are processes that should always be practiced, but the reality of the real world is sometimes that we don't always have the time to check all these boxes while trying to remain agile and move at a fast pace. Agents can flesh out and run tests while a developer's attention can shift towards breaking down the next few tasks. The inflexibility of AI can be leveraged as a strength when given the right kinds of narrow well-defined tasks.
+These are processes that should always be practiced, but the reality of the real world is that often we don't have the time to check all these boxes while trying to remain agile and move at a fast pace. Agents can flesh out and run tests while a developer's attention can shift towards breaking down the next few tasks. The inflexibility of AI can be leveraged as a strength when given the right kinds of narrow well-defined tasks.
 
 ---
 
@@ -116,7 +116,7 @@ Sometimes AI is accelerating the creation of code artifacts: a function, a snipp
 
 Other times, AI are set to integration or productization tasks: identify API usage patterns, proposing changes required by dependency upgrades, creating scaffolding for packaging, generating documentation or example usage. The artifacts produced here could still generally be considered “code" taken in isolation, but it begins to touch the boundaries of producing software as things come together. Again, there can be value that AI can help here, but it doesn't happen automatically.
 
-If you leave the AI to make up what it thinks it needs, it won't architect proper software. If you take a junior engineer and put them "in charge" of an even more junior AI agent; quality code can be produced, but the guidance of a senior developer will be needed to guide exactly what and how the AI is prompted.
+If you leave the AI to make up what it thinks it needs, it won't architect proper software. If you take a junior engineer and put them "in charge" of an even more junior AI agent, quality code can be produced. However, the guidance of a senior developer will be needed to guide exactly what and how the AI is prompted.
 
 Instead of saying something was *vibe coded*, be precise with your language. For example:
 
@@ -124,7 +124,7 @@ Instead of saying something was *vibe coded*, be precise with your language. For
 - “AI drafted documentation and tests, and then humans verified them.”
 - “AI helped structure the design, now we need to validate behavior under real inputs.”
 
-Those statements are not just more honest; they are more actionable. They tell you what work is complete and what work remains.
+Those statements are not just more honest, they are more actionable. They tell you what work is complete and what work remains.
 
 If we’re clear about the boundary between code and software, we can make better decisions on where and what AI can safely be incorporated into our work, what must be validated by human, and what “done” truly means in terms of production ready deliverables.
 
