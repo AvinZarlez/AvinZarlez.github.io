@@ -5,7 +5,14 @@
 
 version: 2
 updates:
-  - package-ecosystem: "" # See documentation for possible values
-    directory: "/" # Location of package manifests
+  # Keep Ruby gems (Gemfile) up to date
+  - package-ecosystem: "bundler"
+    directory: "/" # Location of Gemfile
+    schedule:
+      interval: "weekly"
+
+  # Keep GitHub Actions up to date
+  - package-ecosystem: "github-actions"
+    directory: "/" # Workflow files under .github/workflows/
     schedule:
       interval: "weekly"
