@@ -7,9 +7,9 @@ tags:
   - Software
 ---
 
-I spend a lot of my time explaining technology to people who have very different ideas of software and code. From engineers deep in the implementation details, to leaders trying to understand the development workflow, and everyone in-between.
+I spend a lot of my time explaining technology to people who have fundamentally different ideas of software and code; from engineers deep in the implementation details, to leaders trying to understand the development workflow, and everyone in-between.
 
-I keep bringing up to people that we often use the words **“code”** and **“software”** as if they are interchangeable. In casual conversation, that usually works. In technical planning and when talking about AI-assisted development, it creates subtle misunderstandings that turn into very practical problems. Mismatched expectations, unclear “done” definitions, and teams talking past each other about what to deliver or worse what has or not has been already delivered.
+We often use the words **“code”** and **“software”** as if they are interchangeable. In casual conversation, that usually works. In technical planning and when talking about AI-assisted development, it creates subtle misunderstandings that turn into very practical problems. Mismatched expectations, unclear “done” definitions, and teams talking past each other about what to deliver, or worse; what has or has not already been delivered.
 
 A single Python file is unambiguously **code**. When code becomes **software** depends on something much larger than the file itself. When it expected to be used, how does it behave when pushed to its boundaries, how it’s packaged and run, how it’s tested, how it’s documented, and—most importantly—how it will be maintained when requirements and environments inevitably change.
 
@@ -82,7 +82,7 @@ If you’ve ever returned to code you wrote six months ago and felt like it was 
 
 ## **The hardest part is not the syntax**
 
-At this point, I might be sound repetitive saying software is “code plus documentation and operations.” That is true but also understates the more fundamental point: If you use code when what you need is software, you may not realize what is missing until after negative consequences.
+At this point, I am on repeat saying software is “code plus documentation and operations.” That is true but also understates the more fundamental point: If you use code when what you need is software, you may not realize what is missing until after negative consequences.
 
 This is why this distinction is important in AI discussions. Code generation is accelerating the act of typing. We can celebrate that, but we should not pretend the conceptual work disappears. If I am trying to construct a process, a repeatable system used in business, that can't just be built upon a piece of *code*.
 
@@ -98,13 +98,13 @@ When I explain AI-assisted development to teams, I try to avoid a simplistic “
 
 I can tolerate a different level of rigor when I am writing code myself. I can understand a goal in my head without having each metric of quality thoroughly documented and described in the project management tool. I would be embarrassed to make a pull request with code that only works on the "happy path" and breaks if something unexpected comes up. AI doesn't have this kind of rigor. Even if you write out strict agent guidance explaining everything that needs to be accounted for, you quickly get to the point where the context of the AI gets overloaded and things might get missed.
 
-It's much more effective to send out an agent with narrow and specific context and instructions than to try and teach it everything a mid-level or senior engineer would naturally understand and think about. Treat it as a junior developer that needs constant supervision. Junior engineers are valuable! It's a good thing for your team to having senior engineers spend most of their time supervising junior ones. They often come up with solutions a senior engineer may not have even considered. That doesn't mean you'd ever trust a junior engineer to ship something that will be used by someone else without that supervision and guidance.
+It's much more effective to send out an agent with narrow and specific context and instructions than to try and teach it everything a mid-level or senior engineer would naturally understand and think about. Treat it as a junior developer that needs constant supervision. Junior engineers are valuable! It's a good thing for your team to have senior engineers spend most of their time supervising junior ones. They often come up with solutions a senior engineer may not have even considered. That doesn't mean you'd ever trust a junior engineer to ship something that will be used by someone else without that supervision and guidance.
 
 AI doesn't change the need for junior engineers. It makes it more important than ever to train humans to step into that senior role. To understand the strengths and weaknesses of systems. To not just focus on finding a solution as quickly as possible but determining exactly what questions they need to be asking in the first place.
 
 Where AI code generation can greatly enhance a pipeline is helping developers ensure they are following **software** engineering best practices in their work. Not just automated checks to ensure unit tests exist, but tasking agents to implement robust unit tests for all the edge cases the developer can think of. A developer can use AI to thoroughly ensure all functions have in-code documentation comments, helping future developers understand what was implemented and why.
 
-These are processes that should always be practiced, but the reality of the real world is sometimes we don't always have the time to check all these boxes while trying to remain agile and move at a fast pace. Agents can flesh out and run tests while a developer's attention can shift towards breaking down the next few tasks. The inflexibility of AI can be leveraged as a strength when given the right kinds of narrow well-defined tasks.
+These are processes that should always be practiced, but the reality of the real world is sometimes that we don't always have the time to check all these boxes while trying to remain agile and move at a fast pace. Agents can flesh out and run tests while a developer's attention can shift towards breaking down the next few tasks. The inflexibility of AI can be leveraged as a strength when given the right kinds of narrow well-defined tasks.
 
 ---
 
@@ -112,11 +112,11 @@ These are processes that should always be practiced, but the reality of the real
 
 One reason teams talk past each other is that “AI-assisted development” can mean several different things. I’ve found that clarity improves immediately when I name _which layer_ is being accelerated.
 
-Sometimes AI is accelerating the creation of code artifacts: a function, a snippet, a script, a refactor. That can be real value, especially for individual workflows and prototypes.
+Sometimes AI is accelerating the creation of code artifacts: a function, a snippet, a script, a refactor. That can be a real value, especially for individual workflows and prototypes.
 
-Other times, AI are set to integration or productization tasks: identify API usage patterns, proposing changes required by dependency upgrades, creating scaffolding for packaging, generating documentation or example usage. The artifacts produced here could still generally be considered “code" taken in isolation, but it begins to touch the boundaries of producing software as things come together. Again, there can be value that the AI can help here, but it doesn't happen automatically.
+Other times, AI are set to integration or productization tasks: identify API usage patterns, proposing changes required by dependency upgrades, creating scaffolding for packaging, generating documentation or example usage. The artifacts produced here could still generally be considered “code" taken in isolation, but it begins to touch the boundaries of producing software as things come together. Again, there can be value that AI can help here, but it doesn't happen automatically.
 
-If you leave the AI to make up what it thinks it needs, it won't architect proper software. If you take a junior engineer and make them "in charge" of an even more junior AI agent quality code can be produced, but the guidance of a senior developer will be needed to guide exactly what and how the AI is prompted.
+If you leave the AI to make up what it thinks it needs, it won't architect proper software. If you take a junior engineer and put them "in charge" of an even more junior AI agent; quality code can be produced, but the guidance of a senior developer will be needed to guide exactly what and how the AI is prompted.
 
 Instead of saying something was *vibe coded*, be precise with your language. For example:
 
