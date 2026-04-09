@@ -91,7 +91,6 @@ Play a few daily puzzles. See if the puzzle feels fair. Try it on desktop or mob
 If you run into a bug or have a feature request, please let me know. Feedback like that is exactly what helps a project like this get better. Make an issue directly in the GitHub repo, I will review every single one.
 
 Thank you for checking it out, I hope you join me and my friends in trying out the puzzle every day!
--Avin
 
 ```markdown
 Pen The Pet 🐕‍🦺
