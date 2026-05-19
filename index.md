@@ -8,9 +8,9 @@ header:
   image_description: "Avin Zarlez"
 ---
 
-Hello! My name is Avin Zarlez. My pronouns are She/Her or They/Them. I’m a proud mother of two, a board game enthusiast, and an advocate for diversity and inclusion. I was born and raised in the San Francisco Bay Area, and many of the things I care most about revolve around creativity, community, and shared experiences.
+Hello! My name is Avin Zarlez. My pronouns are She/Her or They/Them. I’m a proud mother of two, a board game enthusiast, and an advocate for diversity and inclusion. I was born and raised in the San Francisco Bay Area, and many of the things I care most about revolve around creativity, community, and the ways people connect with one another.
 
-I enjoy storytelling in all its forms, whether through games, music, technology, conversation, or the small moments people create together. Cooking calms me down. I love art as both a personal and shared experience, whether that means exploring museums and live shows, engaging deeply with media and the ideas behind it, or experimenting with creative expression and interactive experiences of my own.
+I enjoy storytelling in all its forms, whether through games, music, technology, conversation, or the small moments people create together. I see food as a form of comfort and connection, from the familiar to the novel. I’m vegetarian and aspire toward veganism. I also love creativity as both a personal and shared experience, whether that means exploring museums and live shows, engaging deeply with media and the ideas behind it, or experimenting with my own creative expression and interactive forms of art.
 
 I’m happiest when I’m learning something new, building something meaningful, or spending time with people who inspire me.
 
