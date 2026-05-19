@@ -10,7 +10,7 @@ header:
 
 Hello! My name is Avin Zarlez. My pronouns are She/Her or They/Them. I’m a proud mother of two, a board game enthusiast, and an advocate for diversity and inclusion. I was born and raised in the San Francisco Bay Area, and many of the things I care most about revolve around creativity, community, and the ways people connect with one another.
 
-I enjoy storytelling in all its forms, whether through games, music, technology, conversation, or the small moments people create together. I see food as a form of comfort and connection, from the familiar to the novel. I’m vegetarian and aspire toward veganism. I also love creativity as both a personal and shared experience, whether that means exploring museums and live shows, engaging deeply with media and the ideas behind it, or experimenting with my own creative expression and interactive forms of art.
+I enjoy storytelling in all its forms, whether through games, music, technology, conversation, or the small moments people create together. I see food as a form of comfort and connection, whether it's a familiar favorite or trying something new. I’m vegetarian and aspire toward veganism. I also love creativity as both a personal pursuit and a shared part of life, whether that means exploring museums and live shows, engaging deeply with media and the ideas behind it, or experimenting with my own creative expression and interactive forms of art.
 
 I’m happiest when I’m learning something new, building something meaningful, or spending time with people who inspire me.
 
@@ -20,7 +20,7 @@ For a long time, I defined myself primarily through the work I produced and the 
 
 Please visit my [blog page](/blog/) for a selection of articles, videos, and code repositories that you might find interesting or useful.
 
-You can also find me on [BlueSky](https://bsky.app/profile/zarlez.com), [Mastodon](https://sfba.social/@zarlez), and [LinkedIn](https://www.linkedin.com/in/avinzarlez/), where I regularly share thoughts, interesting links, projects, industry discussions, and other topics related to technology, creativity, community, and whatever else happens to spark my curiosity.
+You can also find me on [BlueSky](https://bsky.app/profile/zarlez.com), [Mastodon](https://sfba.social/@zarlez), and [LinkedIn](https://www.linkedin.com/in/avinzarlez/), where I regularly share thoughts, interesting links, projects, industry discussions, and other topics related to technology, creativity, community, and other things that happen to spark my curiosity.
 
 ## Professional Background
 
@@ -28,7 +28,7 @@ My career has focused on the intersection of software engineering, developer adv
 
 I began my career in independent game development, where I learned firsthand how product design, engineering, community, and business all intersect. Since then, I have worked across developer advocacy and software engineering roles, building production systems, creating technical education and demos, and helping developers adopt new platforms and tools.
 
-Throughout that journey, I have remained especially interested in interactive software as both a technical and creative medium. Whether building games, working directly with enterprise engineering teams, or speaking at conferences and community events, I enjoy making complex technology approachable and useful.
+Throughout that journey, I have remained especially interested in interactive software as both a technical and creative medium. Whether building games, working with enterprise engineering teams, or speaking at conferences and community events, I enjoy making complex technology approachable and useful.
 
 ### Career History
 
