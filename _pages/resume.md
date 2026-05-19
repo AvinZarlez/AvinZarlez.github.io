@@ -3,9 +3,10 @@ permalink: /resume/
 title: "Resume"
 ---
 
-You can download my resume as a pdf, or check out my [LinkedIn profile](https://www.linkedin.com/in/avinzarlez/).
+[Download resume as PDF](https://www.avinzarlez.com/AvinZarlez-resume-web.pdf){: .btn .btn--primary} [View profile on LinkedIn](https://www.linkedin.com/in/avinzarlez/){: .btn .btn--info}
 
 ## Avin Zarlez
+{: .text-center}
 
 Software engineer and developer advocate in developer relations, focused on solving complex problems, building production-ready solutions, and making technical concepts clear, practical, and impactful. I have lead projects from design through architecture, implementation, and delivery, with experience in scalable systems, DevOps practices, and high-quality engineering across teams. I apply that foundation to developer enablement, building demos, prototypes, and technical content, and engaging developers through conferences, workshops, and online communities while driving feedback into product and engineering teams.
 
