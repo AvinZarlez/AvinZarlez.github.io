@@ -10,15 +10,17 @@ header:
 
 Hello! My name is Avin Zarlez. My pronouns are She/Her or They/Them. I’m a proud mother of two, a board game enthusiast, and an advocate for diversity and inclusion. I was born and raised in the San Francisco Bay Area, and many of the things I care most about revolve around creativity, community, and shared experiences.
 
-I enjoy storytelling in all its forms, whether through games, music, technology, conversation, or the small moments people create together. Cooking calms me down. I love art as both a personal and shared experience, whether that means exploring museums and live shows, engaging deeply with media and the ideas behind it, or experimenting with creative work of my own through writing, music, visual art, and game design.
+I enjoy storytelling in all its forms, whether through games, music, technology, conversation, or the small moments people create together. Cooking calms me down. I love art as both a personal and shared experience, whether that means exploring museums and live shows, engaging deeply with media and the ideas behind it, or experimenting with creative expression and interactive experiences of my own.
 
 I’m happiest when I’m learning something new, building something meaningful, or spending time with people who inspire me.
 
 For a long time, I defined myself primarily through the work I produced and the projects I shipped. These days, I try to maintain a healthier balance between what I create and who I am outside of that work. My career remains an important part of my life, but it is not the entirety of it.
 
-## Blog
+## Blog & Socials
 
 Please visit my [blog page](/blog/) for a selection of articles, videos, and code repositories that you might find interesting or useful.
+
+You can also find me on [BlueSky](https://bsky.app/profile/zarlez.com), [Mastodon](https://sfba.social/@zarlez), and [LinkedIn](https://www.linkedin.com/in/avinzarlez/), where I regularly share thoughts, interesting links, projects, industry discussions, and other topics related to technology, creativity, community, and whatever else happens to spark my curiosity.
 
 ## Professional Background
 
