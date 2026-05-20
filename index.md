@@ -26,15 +26,15 @@ You can also find me on [BlueSky](https://bsky.app/profile/zarlez.com), [Mastodo
 
 My career has focused on the intersection of software engineering, developer advocacy, and interactive technology. Across startups, enterprise engineering, and developer relations, I have consistently been drawn to work that helps people build, learn, and create with technology.
 
-I began my career in independent game development, where I learned firsthand how product design, engineering, community, and business all intersect. Since then, I have worked across developer advocacy and software engineering roles, building production systems, creating technical education and demos, and helping developers adopt new platforms and tools.
+I began my career in independent game development, where I learned firsthand how design, engineering, community, and business all intersect. Since then, I have worked across developer advocacy and software engineering roles, building production systems, creating technical education and demos, and helping developers adopt new platforms and tools.
 
 Throughout that journey, I have remained especially interested in interactive software as both a technical and creative medium. Whether building games, working with enterprise engineering teams, or speaking at conferences and community events, I enjoy making complex technology approachable and useful.
 
 ### Career History
 
-After graduating from college, I co-founded Yobonja, an independent game studio best known for *Blast Monkeys*, which became the #1 free Android app in 2011. Working in a small studio environment meant wearing many hats across engineering, design, publishing, and community engagement, and it shaped much of how I approach technology and product development today.
+After graduating from college, I co-founded Yobonja, an independent game studio best known for *Blast Monkeys*, which became the #1 free Android app in 2011. Running a small game studio meant wearing many hats across engineering, design, publishing, business, and community engagement, and it helped shaped how I approach technology and development today.
 
-In 2013, I joined Microsoft as a Technical Evangelist, helping developers build on Microsoft platforms through technical guidance, workshops, content creation, and community engagement. Over time, my role evolved toward deeper engineering work, eventually becoming a Senior Software Engineer within Microsoft's Industrial Solutions Engineering organization. There, I worked directly with strategic customers and partners to design and build production systems across a variety of technologies and industries.
+In 2013, I joined Microsoft as a Technical Evangelist, helping developers build on Microsoft platforms through technical guidance, workshops, content creation, and community engagement. Over time, my role evolved toward deeper engineering work, eventually becoming a Senior Software Engineer within Microsoft's Industrial Solutions Engineering organization. There, I worked directly with strategic customers and partners to design, architect and build production systems across a variety of technologies and industries.
 
 Alongside my work at Yobonja and Microsoft, I also ran PlayPerro, a solo game development venture focused on experimental interactive projects. One of those projects, *#DanceTogether*, was featured at both IndieCade and the Experimental Gameplay Workshop at the Game Developers Conference.
 
