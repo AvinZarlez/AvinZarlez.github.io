@@ -16,13 +16,21 @@ Software engineer and developer advocate in developer relations, focused on solv
 
 ### Arm — San Jose, CA
 
-**Staff Developer Evangelist**  
-*October 2024 to Present*
+**Staff Technical Marketing Engineer**  
+*August 2026 to Present*
 
-- Represent Arm to the developer ecosystem through technical talks, workshops, webinars, hackathons, and hands-on education across in-person and online channels.
-- Design and build technical demos, software tools, and example implementations that showcase Arm capabilities and help developers adopt Arm compute platforms.
-- Act as a feedback conduit between external developers and internal product, engineering, and strategy teams by identifying technical gaps, ecosystem trends, and adoption barriers.
-- Combine application software expertise, technical storytelling, and developer enablement to strengthen Arm's presence in the broader software community.
+- Design and develop reusable software demos, reference implementations, and tools that demonstrate Arm capabilities through real-world workflows, with clear setup instructions so developers can run them independently.
+- Collaborate across Arm to translate platform capabilities and developer needs into practical use cases, technical messaging, and developer enablement initiatives aligned with business priorities.
+- Investigate and address adoption barriers in developer marketing resources—including Learning Paths, example code, software tools, and libraries—to improve clarity, usability, and technical accuracy.
+- Engage with developers at conferences and deliver technical presentations, code walkthroughs, and hands-on workshops that help internal and external audiences understand complex technical subjects and their practical applications.
+
+**Staff Developer Evangelist**  
+*October 2024 to August 2026*
+
+- Represented Arm through conference talks, live coding sessions, and hands-on workshops, helping developers understand and adopt Arm technologies.
+- Built relationships with developer communities and strategic software projects through technical discussions, hackathon mentoring, and engagement across online and in-person channels.
+- Translated developer feedback, ecosystem trends, and adoption challenges into actionable insights for internal teams to inform technical priorities and developer engagement.
+- Designed and implemented software demos, tools, and example applications, providing working code that developers could explore and adapt for their own projects.
 
 ### Microsoft — Mountain View, CA
 
