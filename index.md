@@ -38,7 +38,7 @@ In 2013, I joined Microsoft as a Technical Evangelist, helping developers build 
 
 Alongside my work at Yobonja and Microsoft, I also ran PlayPerro, a solo game development venture focused on experimental interactive projects. One of those projects, *#DanceTogether*, was featured at both IndieCade and the Experimental Gameplay Workshop at the Game Developers Conference.
 
-Since 2024, I have worked at Arm as a Staff Developer Evangelist, where I continue to work closely with developers through technical education, demos, workshops, and ecosystem engagement.
+Since 2024, I have worked at Arm where I continue to work closely with developers through technical education, demos, workshops, and ecosystem engagement.
 
 I continue to be most energized by work that combines software engineering with education and community.
 
