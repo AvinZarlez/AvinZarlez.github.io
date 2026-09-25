@@ -5,9 +5,9 @@ minimal_mistakes_skin: "dark"
 
 locale: "en-US"
 title: "Avin Zarlez"
-subtitle: "Mother, Advocate, Staff Developer Evangelist at Arm"
+subtitle: "Mother, Advocate, Staff Technical Marketing Engineer at Arm"
 name: "Avin Zarlez"
-description: "Mother, Advocate, Staff Developer Evangelist at Arm"
+description: "Mother, Advocate, Staff Technical Marketing Engineer at Arm"
 url: "https://www.avinzarlez.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 repository: "AvinZarlez/AvinZarlez.github.io"
@@ -18,7 +18,7 @@ og_image: /assets/images/avin.jpg
 author:
   name             : "Avin Zarlez"
   avatar           : "/assets/images/avin.jpg"
-  bio              : "Mother, Advocate, Staff Developer Evangelist at Arm"
+  bio              : "Mother, Advocate, Staff Technical Marketing Engineer at Arm"
   location         : "San Jose, California"
   email            : "Contact&#64;AvinZarlez.com"
   links:
